@@ -1,0 +1,5 @@
+# Tener Python , vscode
+# extenciones de vscode 
+vscode-pdf
+Raimbow CSV
+IntelliCode API -> Microsoft

@@ -1,0 +1,8 @@
+#ignora todas los cambios del editor
+**/.vscode/**
+./vscode/**/* */
+#los que dicen parcial es por que si o si vienen en el parcial 
+#Interfaces graficas es un tp que dura solo dos dis para poder entreguar 
+#y un tp grupal asi que esten atentos
+#Recomiendo fuertemente que hagan el tp grupal de interfaces graficas ya que es solo una clase
+# y completen el objetivo adicional del tps porque si no estan fritos

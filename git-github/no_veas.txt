@@ -1,0 +1,7 @@
+# Que haces viendo aqui acaso no sabes leer
+# <- que dice el nombre del archivo 
+# que quieres leer la instalacion de git es:
+# sudo apt install git 
+# en windows  -> Si usas  windows es porque no sabes programar
+# Cuando te sientas pro con tu ubuntu( o mint) -> Archilinux (only for peoples PRO)
+#Tank you
